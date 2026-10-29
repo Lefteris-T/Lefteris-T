@@ -1,8 +1,8 @@
-# Hi, I'm Lefteris (lefteris-T) 👋
+# Hi, I'm Lefteris (Lefteris-T) 👋
 
 Software development student at **[Zone01 Athens](https://zone01.gr/)**, learning through hands-on, peer-to-peer projects. I focus on **backend development and systems**, with a growing interest in **cybersecurity, networking, and infrastructure**.
 
-Outside my coursework, I run a personal **homelab** to explore Linux, Docker, networking, Nginx reverse proxies, and secure application deployment. I enjoy understanding not just *how* software works, but *why* it behaves the way it does—and how to make it more reliable and secure.
+Outside my coursework, I run a personal **homelab** to explore Linux, Docker, networking, Nginx reverse proxies, and secure application deployment. I enjoy understanding not just *how* software works, but *why* it behaves the way it does, and how to make it more reliable and secure.
 
 ## Tech & Engineering Focus
 
