@@ -27,7 +27,7 @@ Outside my coursework, I run a personal **homelab** to explore Linux, Docker, ne
 | Project | Stack | Highlights |
 | --- | --- | --- |
 | [forum-security](https://github.com/lefteris-T/forum-security) | Go, SQLite, HTTPS | Web forum with layered handlers/services/repositories architecture, authentication and sessions, OAuth login, password hashing, TLS configuration, and security-focused tests. |
-| **Real-Time Forum** *(in progress)* | Go, JavaScript, SQLite, WebSockets | Single-page forum with registration, login, posts, comments, and planned real-time private messaging. Building it incrementally with tests. |
+| [Real-Time Forum](https://github.com/Lefteris-T/real-time-forum-l) | Go, JavaScript, SQLite, WebSockets | Single-page forum with registration, login, posts, comments, and planned real-time private messaging. Building it incrementally with tests. |
 | [atm-management-system](https://github.com/lefteris-T/atm-management-system) | C, Linux IPC | Command-line ATM system with accounts, transfers, and inter-process notifications using named pipes. |
 | [net-cat](https://github.com/lefteris-T/net-cat) | Go, TCP | Concurrent chat application built around TCP networking and multi-client communication. |
 | [groupie-tracker-search-bar](https://github.com/lefteris-T/groupie-tracker-search-bar) | Go, HTTP, APIs | Music artist and concert discovery application using external API data and search functionality. |
