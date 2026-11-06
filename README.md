@@ -16,7 +16,7 @@ Outside my coursework, I run a personal **homelab** to explore Linux, Docker, ne
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- **Backend & Systems:** Go HTTP servers, REST APIs, WebSockets (in progress), TCP sockets, Linux IPC, SQLite databases, sessions, and server-side validation.
+- **Backend & Systems:** Go HTTP servers, REST APIs, WebSockets, TCP sockets, Linux IPC, SQLite databases, sessions, and server-side validation.
 - **Security & Authentication:** HTTPS/TLS, password hashing, cookie and session security, OAuth integration, access control concepts, and application security testing.
 - **Networking & Homelab:** Linux administration, SSH, Docker containers, Nginx reverse proxy, Cloudflare Tunnel experiments, ports, DNS, and deployment fundamentals.
 - **Engineering Practices:** Git, GitHub, test-driven development, automated tests, modular backend architecture, and technical documentation.
